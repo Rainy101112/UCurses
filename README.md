@@ -18,7 +18,7 @@ Want test? We have test example.<br>
 
     make test
 
-To run it, ('./test.elf') or ('.\test.exe').<br>
+To run it, './test.elf' or '.\test.exe'.<br>
 
 ## Credits
   1. Rainy101112
